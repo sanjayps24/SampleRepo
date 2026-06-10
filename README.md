@@ -1,2 +1,2 @@
-# SampleRepo
+# Sample-Repo 
 ## ✌️Hello Everyone..!
