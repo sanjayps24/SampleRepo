@@ -1,3 +1,3 @@
 ## Hello Everyone...!
-# Welcome to my Sample-Repo
+# Welcome to the Sample-Repo
 
